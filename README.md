@@ -1,3 +1,5 @@
+![Denis Paval — Full-stack developer and founder of Lumax](./assets/profile-banner.svg)
+
 # Hi, I'm Denis 👋
 
 Full-stack web developer and founder of [Lumax](https://lumax.agency) — a founder-led web studio based in Romania.
@@ -8,10 +10,10 @@ I build fast business websites, landing pages, and web applications with React, 
 
 ## Selected work
 
-- **[Car Zone](https://car-zone-final.netlify.app/)** — automotive marketplace with filterable inventory, detailed vehicle presentation, financing calculator, and enquiry flows. *(HTML/SCSS/JS · [case study](https://www.lumax.agency/work/car-zone))*
-- **[Glam Essence](https://www.lumax.agency/work/glam-essence)** — editorial e-commerce storefront with a complete shopping flow and a transactional SQLite commerce backend. *(React, TypeScript, Node)*
-- **[AutoCar X](https://www.lumax.agency/work/autocarx)** — premium automotive service experience with a service estimator and workshop lead management. *(React, TypeScript)*
-- **[GarageBoard](https://github.com/Ciokapick/garage-board)** — workshop operations dashboard: work-order pipeline, live shop stats, validated intake. *(Vue 3, TypeScript, Pinia)*
+- **[Car Zone](https://car-zone-five.vercel.app/)** — automotive marketplace with filterable inventory, vehicle detail pages, financing calculator, and enquiry flows. *(HTML/SCSS/JS · [case study](https://www.lumax.agency/work/car-zone) · [source](https://github.com/Ciokapick/car-zone-portfolio))*
+- **[Glam Essence](https://glam-essence.netlify.app/)** — editorial e-commerce storefront with a complete shopping flow and a transactional SQLite commerce backend. *(React, TypeScript, Node · [case study](https://www.lumax.agency/work/glam-essence) · [source](https://github.com/Ciokapick/glam-essence))*
+- **[AutoCar X](https://autocarx.netlify.app/)** — premium automotive service experience with a service estimator and workshop lead management. *(React, TypeScript, Node · [case study](https://www.lumax.agency/work/autocarx) · [source](https://github.com/Ciokapick/autocarx))*
+- **[GarageBoard](https://ciokapick.github.io/garage-board/)** — workshop operations dashboard with a work-order pipeline, validated intake, customer history, and reporting. *(Vue 3, TypeScript, Pinia · [source](https://github.com/Ciokapick/garage-board))*
 
 ## Currently building
 
