@@ -1,5 +1,3 @@
-![Denis Paval — Full-stack developer and founder of Lumax](./assets/profile-banner.svg)
-
 # Hi, I'm Denis 👋
 
 Full-stack web developer and founder of [Lumax](https://lumax.agency) — a founder-led web studio based in Romania.
