@@ -8,10 +8,11 @@ I build fast business websites, landing pages, and web applications with React, 
 
 ## Selected work
 
-- **[APEX Detailing](https://apex-detailing-six.vercel.app/)** — premium auto detailing and ceramic coating landing page with editorial art direction, responsive layouts, accessible navigation, and reusable UI primitives. *(Next.js, TypeScript, Tailwind CSS · [source](https://github.com/Ciokapick/apex-detailing))*
+
 - **[Car Zone](https://car-zone-five.vercel.app/)** — automotive marketplace with filterable inventory, vehicle detail pages, financing calculator, and enquiry flows. *(HTML/SCSS/JS · [case study](https://www.lumax.agency/work/car-zone) · [source](https://github.com/Ciokapick/car-zone-portfolio))*
 - **[Glam Essence](https://glam-essence.netlify.app/)** — editorial e-commerce storefront with a complete shopping flow and a transactional SQLite commerce backend. *(React, TypeScript, Node · [case study](https://www.lumax.agency/work/glam-essence) · [source](https://github.com/Ciokapick/glam-essence))*
 - **[AutoCar X](https://autocarx.netlify.app/)** — premium automotive service experience with a service estimator and workshop lead management. *(React, TypeScript, Node · [case study](https://www.lumax.agency/work/autocarx) · [source](https://github.com/Ciokapick/autocarx))*
+- **[APEX Detailing](https://apex-detailing-six.vercel.app/)** — premium auto detailing and ceramic coating landing page with editorial art direction, responsive layouts, accessible navigation, and reusable UI primitives. *(Next.js, TypeScript, Tailwind CSS · [source](https://github.com/Ciokapick/apex-detailing))*
 - **[GarageBoard](https://ciokapick.github.io/garage-board/)** — workshop operations dashboard with a work-order pipeline, validated intake, customer history, and reporting. *(Vue 3, TypeScript, Pinia · [source](https://github.com/Ciokapick/garage-board))*
 
 ## Currently building
